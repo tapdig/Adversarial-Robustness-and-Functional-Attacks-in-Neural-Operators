@@ -6,3 +6,8 @@ __pycache__/
 *.pyc
 *.pth
 */*/data/attack/
+
+
+.DS_Store
+
+.gitlab
